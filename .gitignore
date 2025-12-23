@@ -1,0 +1,9 @@
+# Maven build output
+target/
+
+# IDE settings (biar gak keikut juga)
+.idea/
+*.iml
+*.class
+*.log
+*.DS_Store
